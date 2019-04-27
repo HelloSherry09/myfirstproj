@@ -1,2 +1,5 @@
-# myfirstproj
-hahaha
+# start project
+```
+npm i
+npm start
+```
